@@ -11,7 +11,7 @@ void HelloFromCPU(void) {
 	return;	
 }
 
-int main (int argc, const char** argv, const char** env) {
+int main (void) {
 	HelloFromCPU();
 	HelloFromGPU<<<2, 5>>>();
 	HelloFromCPU();
