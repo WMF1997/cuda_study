@@ -1,4 +1,4 @@
-# cuda_study
+# cuda_study_0
 
 我计划在Windows 10和Kubuntu 20.04上学习CUDA.  
 
